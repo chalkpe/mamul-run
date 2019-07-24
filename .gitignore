@@ -1,4 +1,5 @@
 dist/
+.firebase/
 
 # Logs
 logs
