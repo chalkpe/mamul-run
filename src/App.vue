@@ -4,10 +4,10 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="title">
-            MAMUL RUN
+            {{ config.title }}
           </v-list-item-title>
           <v-list-item-subtitle>
-            FFXIV Elite Mark Hunting
+            {{ config.subtitle }}
           </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
@@ -36,7 +36,10 @@
       <template v-slot:extension v-if="$router.currentRoute.meta.expansions">
         <v-tabs centered show-arrows>
           <v-tabs-slider></v-tabs-slider>
-          <v-tab v-for="i in tabs" :key="i">{{ i }}</v-tab>
+          <v-tab v-for="e in expansions" :key="e">
+            <span>{{ e.substring(0, 2) }}</span>
+            <span class="hidden-xs-only" style="white-space: pre">{{ e.substring(2) }}</span>
+          </v-tab>
         </v-tabs>
       </template>
     </v-app-bar>
@@ -54,17 +57,22 @@
 </template>
 
 <script>
+import config from './config'
+import mamul from './assets/mamul'
+
 export default {
   name: 'App',
-
   data: () => ({
     drawer: true,
+
+    config,
+    expansions: [...new Set(mamul.map(m => m.expansion))],
+
     list: [
       { icon: 'mdi-home', title: 'Home', to: '/' },
       { icon: 'mdi-comment-processing', title: 'Report', to: '/report' },
       { icon: 'mdi-information', title: 'About', to: '/about' }
-    ],
-    tabs: ['신생 에오르제아', '창천의 이슈가르드', '홍련의 해방자']
+    ]
   })
 }
 </script>
