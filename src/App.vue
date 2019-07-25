@@ -33,7 +33,7 @@
       <v-spacer></v-spacer>
       <v-btn icon><v-icon>mdi-dots-vertical</v-icon></v-btn>
 
-      <template v-slot:extension>
+      <template v-slot:extension v-if="$router.currentRoute.meta.expansions">
         <v-tabs centered show-arrows>
           <v-tabs-slider></v-tabs-slider>
           <v-tab v-for="i in tabs" :key="i">{{ i }}</v-tab>
@@ -56,6 +56,7 @@
 <script>
 export default {
   name: 'App',
+
   data: () => ({
     drawer: true,
     list: [

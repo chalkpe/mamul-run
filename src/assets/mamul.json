@@ -13,7 +13,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "웅크테히",
@@ -29,7 +30,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "마도 지옥손아귀",
@@ -45,7 +47,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "난",
@@ -61,7 +64,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "마베리",
@@ -77,7 +81,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "콘누",
@@ -93,7 +98,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "포르네우스",
@@ -109,7 +115,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "녹아내리는 젤리",
@@ -125,7 +132,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "게데",
@@ -141,7 +149,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "기르타브",
@@ -157,7 +166,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "일렉트리온",
@@ -173,7 +183,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "마헤스",
@@ -189,7 +200,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "사보텐더 무희",
@@ -205,7 +217,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "자니고",
@@ -221,7 +234,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "마지막 투혼",
@@ -237,7 +251,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "머라쿠",
@@ -253,7 +268,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "쿠레아",
@@ -269,7 +285,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "류바",
@@ -285,7 +302,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "미르카",
@@ -301,7 +319,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "파일라스터",
@@ -317,7 +336,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "와이번 로드",
@@ -333,7 +353,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "스톨라스",
@@ -349,7 +370,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "기계병정 슬립킨크스",
@@ -365,7 +387,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "부네",
@@ -381,7 +404,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "아가토스",
@@ -397,7 +421,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "시시우틀",
@@ -413,7 +438,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "엔켈라도스",
@@ -429,7 +455,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "악취화",
@@ -445,7 +472,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "캠파크티",
@@ -461,7 +489,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "얼",
@@ -477,7 +506,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "오르쿠스",
@@ -493,7 +523,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "보크스타인",
@@ -509,7 +540,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "아크라부아멜루",
@@ -525,7 +557,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "마히샤",
@@ -541,7 +574,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "루미나레",
@@ -557,7 +591,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "앙가다",
@@ -573,7 +608,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "가자수라",
@@ -589,7 +625,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "선박 유령",
@@ -605,7 +642,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "귀신 꿈고둥",
@@ -621,7 +659,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "솜",
@@ -637,7 +676,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "기리메칼라",
@@ -653,7 +693,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "크로크 미테느",
@@ -669,7 +710,8 @@
     "trigger": "3등급 라노시아 겉흙을 채집할 때",
     "condition_weather_date": "X",
     "condition_time": "19:00-22",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "개굴개로스",
@@ -685,7 +727,8 @@
     "trigger": "모험가가 출현 장소를 지나다닐 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "갈록",
@@ -701,7 +744,8 @@
     "trigger": "200분 동안 비가 내리지 않을 때",
     "condition_weather_date": "맑음",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "보나콘",
@@ -717,7 +761,8 @@
     "trigger": "라노시아 부추를 채집할 때",
     "condition_weather_date": "X",
     "condition_time": "08:00-11",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "난디",
@@ -733,7 +778,8 @@
     "trigger": "아무 꼬마 친구와 출현 장소를 지나갈 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "체르노보그",
@@ -749,7 +795,8 @@
     "trigger": "모험가가 죽을 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "레드로네트",
@@ -765,7 +812,8 @@
     "trigger": "2번 연속으로 비가 내릴 때",
     "condition_weather_date": "비",
     "condition_time": "ET+3:00 후",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "울가루",
@@ -781,7 +829,8 @@
     "trigger": "길드 의뢰: 용병업 혹은 총사령부 의뢰에 수주권을 사용할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "정신지배자",
@@ -797,7 +846,8 @@
     "trigger": "모험가가 출현 장소를 지나다닐 때",
     "condition_weather_date": "삭월/초승달",
     "condition_time": "00:00-08",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "천갈래덩쿨 세다",
@@ -813,7 +863,8 @@
     "trigger": "심판 가오리를 낚을 때",
     "condition_weather_date": "X",
     "condition_time": "17:00~21",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "조나 시커",
@@ -829,7 +880,8 @@
     "trigger": "구리거울을 낚을 때",
     "condition_weather_date": "쾌청/맑음",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "발라우르",
@@ -845,7 +897,8 @@
     "trigger": "길드 의뢰: 용병업 혹은 총사령부 의뢰에 수주권을 사용할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "브론테스",
@@ -861,7 +914,8 @@
     "trigger": "출현 장소를 지나다니며 음식을 먹을 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "느뉴느위",
@@ -877,7 +931,8 @@
     "trigger": "1시간 동안 남부 다날란에 생성되는 모든 돌발 임무를 성공할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "미뇨카온",
@@ -893,7 +948,8 @@
     "trigger": "땅 정령 처치 시 획득하는 땅 크리스탈을 일정 갯수 획득할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "사파트",
@@ -909,7 +965,8 @@
     "trigger": "모험가의 HP가 10% 이하로 떨어질 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "아그리파",
@@ -925,7 +982,8 @@
     "trigger": "모르도나 서쪽에서 보물상자를 개방할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "카이저 베히모스",
@@ -941,7 +999,8 @@
     "trigger": "꼬마 친구 '로열 베이비모스'를 데리고 출현 장소를 지나갈 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "센무르",
@@ -957,7 +1016,8 @@
     "trigger": "돌발 임무 '알 사수 전쟁'을 연속 5번 클리어할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "창백의 기수",
@@ -973,7 +1033,8 @@
     "trigger": "7등급 보물지도 사용 후 보물상자를 개방할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "간다르바",
@@ -988,8 +1049,9 @@
     "time_maintenance_max": "79:20",
     "trigger": "황제금 광석 또는 별맞이꽃을 채집할 때",
     "condition_weather_date": "X",
-    "condition_time": "황제금 광석:  2:00~4:00/14:00~16:00 | 별맞이꽃 4:00~6:00/16:00~18",
-    "spawnpoint": "랜덤"
+    "condition_time": "황제금 광석 2:00~4:00/14:00~16:00 | 별맞이꽃 4:00~6:00/16:00~18",
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "극락조",
@@ -1005,7 +1067,8 @@
     "trigger": "B급 마물 '스퀑크'의 지저귐 공격에 피해를 입을 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "레우크로타",
@@ -1022,7 +1085,8 @@
     "condition_weather_date": "메라시디아 뷔브르",
     "condition_time": "하급 하이드라를 각 50마리씩 처치할 때\"",
     "spawnpoint": "X",
-    "undefined": "랜덤"
+    "undefined": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "우담바라",
@@ -1039,7 +1103,8 @@
     "condition_weather_date": "디아카를 약 50마리를 처치할 때\"",
     "condition_time": "X",
     "spawnpoint": "X",
-    "undefined": "랜덤"
+    "undefined": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "해골 거미",
@@ -1055,7 +1120,8 @@
     "trigger": "초코보 수송을 이용할 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "빛과 소금",
@@ -1071,7 +1137,8 @@
     "trigger": "인벤토리에서 아무 아이템을 버릴 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "감마",
@@ -1087,7 +1154,8 @@
     "trigger": "꼬마 친구 '꼬마 알렉산더' 를 데리고 출현 장소를 지나갈 때",
     "condition_weather_date": "저녁~새벽",
     "condition_time": "17:00~05",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "오키나",
@@ -1103,7 +1171,8 @@
     "trigger": "꿈고둥 알맹이를 약 200마리 처치할 때",
     "condition_weather_date": "만월",
     "condition_time": "12:00~",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "오르가나",
@@ -1119,12 +1188,13 @@
     "trigger": "돌발 임무 '돌인간 영웅'의 '게르게이 촐로오' 처치 후 출현 장소를 지나갈 때",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "근처"
+    "spawnpoint": "근처",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "오딘",
     "rank": "F",
-    "zone": "검은 장막 숲",
+    "zone": "검은장막 숲",
     "name_en": "Odin",
     "name_jp": "オーディン",
     "alias": "",
@@ -1135,7 +1205,8 @@
     "trigger": "자연",
     "condition_weather_date": "투기",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "베히모스",
@@ -1151,7 +1222,8 @@
     "trigger": "자연",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "부상당한 베히모스",
@@ -1167,7 +1239,8 @@
     "trigger": "전설의 마수' 클리어 시 1분내외",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "신생 에오르제아"
   },
   {
     "name": "커얼레기나",
@@ -1183,7 +1256,8 @@
     "trigger": "자연",
     "condition_weather_date": "야수번개",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "커얼레기나 1단계",
@@ -1199,7 +1273,8 @@
     "trigger": "자연",
     "condition_weather_date": "야수번개",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "커얼레기나 2단계",
@@ -1215,7 +1290,8 @@
     "trigger": "번개야수의 여왕' 클리어 후 2시간 내외 / 실패 시 1차로 돌아감.",
     "condition_weather_date": "야수번개",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "커얼레기나 3단계",
@@ -1231,7 +1307,8 @@
     "trigger": "역습의 여왕' 클리어 후 2시간 내외 / 실패 or 클리어 시 '번개야수의 여왕' 으로 돌아감.",
     "condition_weather_date": "야수번개",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "야광화",
@@ -1247,7 +1324,8 @@
     "trigger": "자연",
     "condition_weather_date": "번개파동",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "창천의 이슈가르드"
   },
   {
     "name": "익시온",
@@ -1263,7 +1341,8 @@
     "trigger": "자연",
     "condition_weather_date": "전선뇌우",
     "condition_time": "X",
-    "spawnpoint": "랜덤"
+    "spawnpoint": "랜덤",
+    "expansion": "홍련의 해방자"
   },
   {
     "name": "타마모",
@@ -1279,6 +1358,7 @@
     "trigger": "그 이름은 미쿠즈메' 클리어 후 2시간 내외 /순서 상관없이 킨코의 소원&긴코의 소원 연속으로 클리어 해야 미쿠즈ㅁ메가 나옴.",
     "condition_weather_date": "X",
     "condition_time": "X",
-    "spawnpoint": "지정"
+    "spawnpoint": "지정",
+    "expansion": "홍련의 해방자"
   }
 ]
