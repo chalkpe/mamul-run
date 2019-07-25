@@ -1,11 +1,12 @@
 <template>
-  <div>
-    HOME
-  </div>
+  <v-layout>
+  </v-layout>
 </template>
 
 <script>
 
 export default {
+  data: () => ({
+  })
 }
 </script>

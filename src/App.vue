@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer app>
+    <v-navigation-drawer app v-model="drawer">
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="title">
@@ -27,6 +27,20 @@
       </v-list>
     </v-navigation-drawer>
 
+    <v-app-bar app>
+      <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+      <v-toolbar-title>{{ $router.currentRoute.name }}</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn icon><v-icon>mdi-dots-vertical</v-icon></v-btn>
+
+      <template v-slot:extension>
+        <v-tabs centered show-arrows>
+          <v-tabs-slider></v-tabs-slider>
+          <v-tab v-for="i in tabs" :key="i">{{ i }}</v-tab>
+        </v-tabs>
+      </template>
+    </v-app-bar>
+
     <v-content>
       <router-view></router-view>
     </v-content>
@@ -43,11 +57,13 @@
 export default {
   name: 'App',
   data: () => ({
+    drawer: true,
     list: [
       { icon: 'mdi-home', title: 'Home', to: '/' },
       { icon: 'mdi-comment-processing', title: 'Report', to: '/report' },
       { icon: 'mdi-information', title: 'About', to: '/about' }
-    ]
+    ],
+    tabs: ['신생 에오르제아', '창천의 이슈가르드', '홍련의 해방자']
   })
 }
 </script>
