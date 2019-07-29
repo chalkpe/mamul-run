@@ -9,19 +9,21 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Home',
+      name: '마물런',
       meta: { expansions: true },
       component: () => import(/* webpackChunkName: "home" */ './views/Home.vue')
     },
+
     {
       path: '/report',
-      name: 'Report',
+      name: '토벌 보고',
       meta: { expansions: true },
       component: () => import(/* webpackChunkName: "report" */ './views/Report.vue')
     },
+
     {
       path: '/about',
-      name: 'About',
+      name: '페이지 정보',
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     }
   ]

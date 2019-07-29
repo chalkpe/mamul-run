@@ -62,17 +62,27 @@ import mamul from './assets/mamul'
 
 export default {
   name: 'App',
-  data: () => ({
-    drawer: true,
 
-    config,
-    expansions: [...new Set(mamul.map(m => m.expansion))],
+  data: function () {
+    return {
+      drawer: true,
 
-    list: [
-      { icon: 'mdi-home', title: 'Home', to: '/' },
-      { icon: 'mdi-comment-processing', title: 'Report', to: '/report' },
-      { icon: 'mdi-information', title: 'About', to: '/about' }
-    ]
-  })
+      config,
+      expansions: [...new Set(mamul.map(m => m.expansion))],
+
+      list: [
+        { to: '/', icon: 'mdi-home' },
+        { to: '/report', icon: 'mdi-comment-processing' },
+        { to: '/about', icon: 'mdi-information' }
+      ].map(m => ({ ...m, title: this.routeName(m.to) }))
+    }
+  },
+
+  methods: {
+    routeName (path) {
+      return this.$router.resolve(path).route.name
+    }
+  }
+
 }
 </script>
