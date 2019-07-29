@@ -1,10 +1,10 @@
 <template>
   <v-container grid-list-lg>
     <v-layout wrap>
-      <v-flex lg6 v-for="rank in ranks" :key="rank">
+      <v-flex lg4 v-for="r in ranks" :key="r.value">
         <v-card><v-list two-line subheader>
-          <v-subheader>{{ rank }}급</v-subheader>
-          <v-list-item v-for="m in mamul[rank]" :key="m.name">
+          <v-subheader>{{ r.name }}</v-subheader>
+          <v-list-item v-for="m in getMamulByRank(r.value)" :key="m.name">
             <v-list-item-content>
               <v-list-item-title>{{ m.name }}</v-list-item-title>
               <v-list-item-subtitle>{{ m.zone }}</v-list-item-subtitle>
@@ -17,20 +17,29 @@
 </template>
 
 <script>
-import mamul from '../assets/mamul'
-
 export default {
   props: {
+    mamul: Array,
     expansion: String
   },
 
-  data: function () {
-    return {
-      ranks: ['A', 'S'],
-      mamul: {
-        A: mamul.filter(m => m.expansion === this.expansion && m.rank === 'A'),
-        S: mamul.filter(m => m.expansion === this.expansion && m.rank === 'S')
-      }
+  data: () => ({
+    ranks: [
+      { name: 'A급', value: 'A' },
+      { name: 'S급', value: 'S' },
+      { name: '특수돌발', value: 'F' }
+    ]
+  }),
+
+  computed: {
+    currentMamul () {
+      return this.mamul.filter(m => m.expansion === this.expansion)
+    }
+  },
+
+  methods: {
+    getMamulByRank (rank) {
+      return this.currentMamul.filter(m => m.rank === rank)
     }
   }
 }
